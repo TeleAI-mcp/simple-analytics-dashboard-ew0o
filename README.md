@@ -1,2 +1,3 @@
-# simple-analytics-dashboard-ew0o
-Automated issue comment bot repository
+# Simple Analytics Dashboard Ew0O
+
+Automated issue comment bot repository.
